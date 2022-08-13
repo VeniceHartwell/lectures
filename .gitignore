@@ -10,3 +10,5 @@ week-2/other/*
 week-4/jsons/
 wheel
 wheel/**
+*/**geckodriver.log
+questions/hypothesis-testing/**
