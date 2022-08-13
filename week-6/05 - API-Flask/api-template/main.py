@@ -69,4 +69,4 @@ def insert_message():
         return "You need to include the db param: either mongo or sql"
 
 
-app.run(debug=True)
+app.run(port=9000, debug=True)
