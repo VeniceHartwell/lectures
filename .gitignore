@@ -12,3 +12,5 @@ wheel
 wheel/**
 */**geckodriver.log
 questions/hypothesis-testing/**
+*/**my_submission.csv
+*/**Kaggle mock submission - Steps.ipynb
